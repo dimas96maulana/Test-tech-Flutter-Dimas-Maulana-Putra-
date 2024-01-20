@@ -1,0 +1,1 @@
+ /Users/endrosatyo/Dimas/loker/Test-tech-Flutter-Dimas-Maulana-Putra-/.dart_tool/flutter_build/8c8b1dc9658df6ecc32c854fc5ea4b19/native_assets.yaml: 
